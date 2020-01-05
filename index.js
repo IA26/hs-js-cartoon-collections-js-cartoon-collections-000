@@ -1,3 +1,6 @@
+DwarfNames = []
+
+
 function dwarfRollCall(dwarves) {
 }
 
