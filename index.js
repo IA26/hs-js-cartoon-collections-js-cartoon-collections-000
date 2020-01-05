@@ -1,4 +1,4 @@
-DwarfNames = []
+DwarfNames = ["Doc", "Dopey", "Bashful", "Grumpy"];
 
 
 function dwarfRollCall(dwarves) {
